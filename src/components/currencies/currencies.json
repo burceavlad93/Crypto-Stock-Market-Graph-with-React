@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "id": "USD",
+            "name": "US Dollar",
+            "min_size": "0.01000000"
+        },
+        {
+            "id": "EUR",
+            "name": "Euro",
+            "min_size": "0.01000000"
+        },
+        {
+            "id": "JPY",
+            "name": "Japanese Yen",
+            "min_size": "1.00000000"
+        },
+        {
+            "id": "GBP",
+            "name": "British Pound",
+            "min_size": "0.01000000"
+        },
+        {
+            "id": "AUD",
+            "name": "Australian Dollar",
+            "min_size": "0.01000000"
+        },
+        {
+            "id": "CAD",
+            "name": "Canadian Dollar",
+            "min_size": "0.01000000"
+        },
+        {
+            "id": "CHF",
+            "name": "Swiss Franc",
+            "min_size": "0.01000000"
+        },
+        {
+            "id": "HKD",
+            "name": "Hong Kong Dollar",
+            "min_size": "0.01000000"
+        },
+        {
+            "id": "NZD",
+            "name": "New Zealand Dollar",
+            "min_size": "0.01000000"
+        }
+    ]
+}
